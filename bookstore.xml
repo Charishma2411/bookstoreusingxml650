@@ -1,0 +1,37 @@
+<bookstore>
+<book>
+<bookname>HARRY POTTER </bookname>
+<bookauthor>J.K. Rowling</bookauthor>
+<bookprice>$1799</bookprice>
+<ISBN>9781408855652</ISBN>
+<pages>3,407</pages>
+</book>
+<book>
+<bookname>WUTHERING HEIGHTS</bookname>
+<bookauthor>Emily Bronte</bookauthor>
+<bookprice>$268</bookprice>
+<ISBN>978-1853260018</ISBN>
+<pages>272</pages>
+</book>
+<book>
+<bookname>TO KILL A MOCKINGBIRD </bookname>
+<bookauthor>Harper Lee</bookauthor>
+<bookprice>$245</bookprice>
+<ISBN>978-0099549482</ISBN>
+<pages>320</pages>
+</book>
+<book>
+<bookname>SAPIENS:A BRIEF HISTORY OF HUMANKIND</bookname>
+<bookauthor>Yuval Noah Harari</bookauthor>
+<bookprice>$469</bookprice>
+<ISBN>978-0099590088</ISBN>
+<pages>512</pages>
+</book>
+<book>
+<bookname>FREAKONOMICS</bookname>
+<bookauthor>Steven D.Levitt</bookauthor>
+<bookprice>$563</bookprice>
+<ISBN>978-0063269194</ISBN>
+<pages>672</pages>
+</book>
+</bookstore>
